@@ -13,7 +13,7 @@
 
 - Finding Stories
 
-	- [Can NYPD Spot the Abusive Cop?](http://www.wnyc.org/story/can-the-nypd-spot-the-abusive-cop/
+	- [Can NYPD Spot the Abusive Cop?](http://www.wnyc.org/story/can-the-nypd-spot-the-abusive-cop/)
 	- [Resisting Arrest](http://www.wnyc.org/story/resisting-arrest-black-white/)
 	- [Crash publicity](http://www.wnyc.org/story/nypdtrafficdeaths/)
 	- [For City's Teens, Stop And Frisk Is Black And White](http://www.wnyc.org/story/212460-city-teenagers-say-stop-and-frisk-all-about-race-and-class/)
@@ -21,7 +21,7 @@
 - Bringing it Home - Macro / Micro
 
     - [Hurricane Zones](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
-    - [Transit Time]http://project.wnyc.org/transit-time/
+    - [Transit Time]http://project.wnyc.org/transit-time/)
     - [School Speed zones](http://project.wnyc.org/speed-zones/)
 
 - Show Don't Tell
