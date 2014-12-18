@@ -21,7 +21,7 @@
 - Bringing it Home - Macro / Micro
 
     - [Hurricane Zones](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
-    - [Transit Time]http://project.wnyc.org/transit-time/)
+    - [Transit Time](http://project.wnyc.org/transit-time/)
     - [School Speed zones](http://project.wnyc.org/speed-zones/)
 
 - Show Don't Tell
@@ -44,23 +44,20 @@
 
 - Do One Thing Well
 
-- Big macro + big micro. .
+- Big macro + big micro
 
-- make it beautiful
+- Make it beautiful
 
-- Make it scan
-    Do you have to explain it all?
-    How much?
+- Make it scan. Do you have to explain it all? How much?
 
-- Offer it as part of your package
-
+- Offer it as part of your freelance package
 
 
 ##Pitfalls
 
-- colors are your verbs
+- colors are your verbs - they can bias your presentation.
 
-- charts: cable TV usage.
+- non-zero based charts: [This is one of my favorites](http://feeling-data.tumblr.com/post/24479885347/cable-tv-graphic).
 
 - you can put everything on a map. Don't.
 
@@ -72,10 +69,11 @@
     Needs specific purpose or way too much data.
 
 - When a map is not a map
-    Often a chart is better
-    Especailly when you're trying to map lots of variables (like flooding and income)
-    Use when location is key to the story
-    Not for navigation
+	- [Great article about this](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+    - Often a chart is better
+    - Especailly when you're trying to map lots of variables (like flooding and income)
+    - Use when location is key to the story
+    - Not for navigation
 
 ##A Word About Numeracy
 
@@ -94,13 +92,15 @@ Your sources are ahead of you
 - Doesn't always have to be stuff that people will see/use
 - Can help process your information
 - Can help you watch things online
+- Learn the language someone you know well and can annoy knows
 
 ##A Word About Security
 
 - Protecting you and your sources
-- Concerns are not just NSA. Private firms, too. Look at Uber story.
-- end-to-end encrypted tech
-- encrypt your drive (easy!)
+- Concerns are not just NSA. Countries, competitors, private firms, ect too.
+- End-to-end encryption
+- Storage encryption your drive (easy!)
+- Cloud encryption
 - Check out these two Jonathan Stray articles:
 	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
 	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
