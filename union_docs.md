@@ -92,7 +92,7 @@ Your sources are ahead of you
 - Doesn't always have to be stuff that people will see/use
 - Can help process your information
 - Can help you watch things online
-- Learn the language someone you know well and can annoy knows
+- Find someone who can code, who you know well and can annoy, and learn their language
 
 ##A Word About Security
 
