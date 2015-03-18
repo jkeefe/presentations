@@ -1,18 +1,18 @@
-http://project.wnyc.org/subway-fridays/embed.html
-http://project.wnyc.org/white-christmas/
-http://project.wnyc.org/wolff-samson/
-http://project.wnyc.org/patchwork-vote-fl/index.html
-http://project.wnyc.org/resisting-race/
-http://project.wnyc.org/30iss-recessions/embed.html
-http://thedailyviz.com/2012/11/13/charting-major-league-baseball-day-to-day-standings-with-tufte-inspired-sparklines/
-http://project.wnyc.org/collisions/
-http://project.wnyc.org/resisting/
-http://censusreporter.org/profiles/16000US3651000-new-york-ny/
-http://www.mass1.com/pie-charts-good-bad-yummy/
-http://stats.stackexchange.com/questions/122318/in-pie-chart-where-should-legend-be
-http://www.statmethods.net/graphs/images/pie3.jpg
-http://www.indiabix.com/data-interpretation/pie-charts/
-http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf
-http://feeling-data.tumblr.com/post/24479885347/cable-tv-graphic
-http://junkcharts.typepad.com/junk_charts/
-http://cl.ly/image/1g1P1W1d2n0z
+- http://project.wnyc.org/subway-fridays/embed.html
+- http://project.wnyc.org/white-christmas/
+- http://project.wnyc.org/wolff-samson/
+- http://project.wnyc.org/patchwork-vote-fl/index.html
+- http://project.wnyc.org/resisting-race/
+- http://project.wnyc.org/30iss-recessions/embed.html
+- http://thedailyviz.com/2012/11/13/charting-major-league-baseball-day-to-day-standings-with-tufte-inspired-sparklines/
+- http://project.wnyc.org/collisions/
+- http://project.wnyc.org/resisting/
+- http://censusreporter.org/profiles/16000US3651000-new-york-ny/
+- http://www.mass1.com/pie-charts-good-bad-yummy/
+- http://stats.stackexchange.com/questions/122318/in-pie-chart-where-should-legend-be
+- http://www.statmethods.net/graphs/images/pie3.jpg
+- http://www.indiabix.com/data-interpretation/pie-charts/
+- http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf
+- http://feeling-data.tumblr.com/post/24479885347/cable-tv-graphic
+- http://junkcharts.typepad.com/junk_charts/
+- http://cl.ly/image/1g1P1W1d2n0z
