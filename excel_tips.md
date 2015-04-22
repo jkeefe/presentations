@@ -20,7 +20,7 @@ These are the things you can do when you first want to get to know your data
 
 - Check out the row count 
   - Does it pass the smell test?
-  - Is it 65,536?!? That is [bad](http://superuser.com/questions/366468/what-is-the-maximum-allowed-rows-in-a-microsoft-excel-xls-or-xlsx)!
+  - Is it **65,536**?!? That is [bad](http://superuser.com/questions/366468/what-is-the-maximum-allowed-rows-in-a-microsoft-excel-xls-or-xlsx)!
 
 - Do you know what the columns really mean?
 
