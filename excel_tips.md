@@ -25,7 +25,7 @@ These are the things you can do when you first want to get to know your data
 - Do you know what the columns really mean?
 
   
-- Look for things you think should be there (and do they make sense)
+- Look for things you think should be there (and whether they make sense)
 
 
 # Math
