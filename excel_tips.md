@@ -11,12 +11,6 @@ These are the things you can do when you first want to get to know your data
 (Data sets using are School Vaccinations and Claims, which are not in this repo)
 
 - Sort it a lot
-  - Adding filter-arrows to columns
-    * Highlight the row with the column names
-    * Choose `Data` from menu, then `Filter`
-    * Now you have arrows on the columns to sort them!    
-  - Sort by lots of the columns
-  - Quickly spot the ranges and the missing values
 
 - Check out the row count 
   - Does it pass the smell test?
@@ -40,7 +34,7 @@ These are the things you can do when you first want to get to know your data
   - `=SUM(A1:A5)`
   - Can Drag to fill out the colums
   - Can just highlight cells for a quick preview at the bottom
-  - Clicking on a formula cell shows you the boxes its using
+  - Clicking on a formula cell shows you the boxes it's using
 
 - Percentages 
 
@@ -51,10 +45,11 @@ These are the things you can do when you first want to get to know your data
 
   - (New minus old) over old
   - (New - Old) / old
-  - Parenthesis matters!
+  - Parentheses matters!
     - Excel uses math precidence
     - AKA "Order of Operations"
     - Please Excuse My Dear Aunt Sally
+    - Parens, Exponents, Multiplcation, Division, Addition, SubtractioD
     - Percent change from 10 to 8?
       * 10 - 8 / 8 evaluates to **9** (10 minus 1) *wrong*
       * (10 - 8) / 8 evaulates to **.25** *right!*
@@ -62,7 +57,7 @@ These are the things you can do when you first want to get to know your data
 - Numbers all the way down
   * Copy formulas down by starting with the original
   * Dragging the highlighting box down
-  * Hitting `ctrl-C`
+  * Hitting `Ctrl-D`
   * (can also do this to the right, using `ctrl-R`)
 
 - Changing column format
