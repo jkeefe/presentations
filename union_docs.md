@@ -1,6 +1,7 @@
 # Uniondocs Presentation
 
-*Presented December 18, 2014, in Brooklyn.*
+*Presented April 30, 2015, in Brooklyn.*  
+This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 
 ##Why Data?
 - Finding Stories
@@ -39,6 +40,10 @@
 	- [Pronunciation guide](http://project.wnyc.org/pronunciation/)
     - [Valentines](http://project.wnyc.org/vday-sentiment/)
     - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
+
+##Mapping Workshop
+
+Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md) for that.
 
 ##Tips
 
@@ -91,7 +96,7 @@ Your sources are ahead of you
 - Knowing how to code will help you succeed
 - Doesn't always have to be stuff that people will see/use
 - Can help process your information
-- Can help you watch things online
+- Can help you watch things online (We Love Bots!)
 - Find someone who can code, who you know well and can annoy, and learn their language
 
 ##A Word About Security

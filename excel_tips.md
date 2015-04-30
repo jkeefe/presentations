@@ -49,7 +49,7 @@ These are the things you can do when you first want to get to know your data
     - Excel uses math precidence
     - AKA "Order of Operations"
     - Please Excuse My Dear Aunt Sally
-    - Parens, Exponents, Multiplcation, Division, Addition, SubtractioD
+    - Parens, Exponents, Multiplcation, Division, Addition, Subtraction
     - Percent change from 10 to 8?
       * 10 - 8 / 8 evaluates to **9** (10 minus 1) *wrong*
       * (10 - 8) / 8 evaulates to **.25** *right!*
