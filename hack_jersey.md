@@ -1,7 +1,6 @@
-# Uniondocs Presentation
+# Hack Jersey Presentation
 
-*Presented April 30, 2015, in Brooklyn.*  
-This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
+*Presented May 14, 2015, at WNYC.*  
 
 ##Why Data?
 - Finding Stories
@@ -41,10 +40,6 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
     - [Valentines](http://project.wnyc.org/vday-sentiment/)
     - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
 
-##Mapping Workshop
-
-Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md) for that.
-
 ##Tips
 
 - Do One Thing Well
@@ -79,33 +74,3 @@ Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/
     - Especailly when you're trying to map lots of variables (like flooding and income)
     - Use when location is key to the story
     - Not for navigation
-
-##A Word About Numeracy
-
-Your sources are ahead of you
-
-- Banks
-- Politicians
-- Candidates
-- Police
-- Non-profits
-- For-profits
-
-##A Word About Coding
-
-- Knowing how to code will help you succeed
-- Doesn't always have to be stuff that people will see/use
-- Can help process your information
-- Can help you watch things online (We Love Bots!)
-- Find someone who can code, who you know well and can annoy, and learn their language
-
-##A Word About Security
-
-- Protecting you and your sources
-- Concerns are not just NSA. Countries, competitors, private firms, ect too.
-- End-to-end encryption
-- Storage encryption your drive (easy!)
-- Cloud encryption
-- Check out these two Jonathan Stray articles:
-	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
-	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
