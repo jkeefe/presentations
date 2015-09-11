@@ -52,7 +52,7 @@
 * Started with [data on air conditioning breakdowns](http://www.thenewyorkworld.com/2015/07/07/summer-city-brings-dreaded-hot-subway-cars/)
 * Specific to [car type](https://en.wikipedia.org/wiki/New_York_City_Subway_rolling_stock), not line
 * How might one treat that? (if you don't know)
-* Set up as a "choose your own adventure"
+* Set up as a "choose your own adventure" [Louise's Drawing](https://www.dropbox.com/s/bvz1lqbhr5ytz0z/fieldguide_061815.png?dl=0)
 * Give a sense of how to see car details, plus the information
 * [Finished product](http://www.wnyc.org/story/field-guide-subway-cars/) 
 
