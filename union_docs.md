@@ -1,7 +1,12 @@
 # Uniondocs Presentation
 
-*Presented April 30, 2015, in Brooklyn.*  
+*Presented December 17, 2015, in Brooklyn.*  
 This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
+
+## Me
+Twitter: [@jkeefe](https://twitter.com/jkeefe)
+Work: [WNYC Data News](http://www.wnyc.org/people/data-news-team/)
+Play: [johnkeefe.net](http://johnkeefe.net/)
 
 ##Why Data?
 - Finding Stories
@@ -16,30 +21,31 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 
 	- [Can NYPD Spot the Abusive Cop?](http://www.wnyc.org/story/can-the-nypd-spot-the-abusive-cop/)
 	- [Resisting Arrest](http://www.wnyc.org/story/resisting-arrest-black-white/)
-	- [Crash publicity](http://www.wnyc.org/story/nypdtrafficdeaths/)
 	- [For City's Teens, Stop And Frisk Is Black And White](http://www.wnyc.org/story/212460-city-teenagers-say-stop-and-frisk-all-about-race-and-class/)
 
 - Bringing it Home - Macro / Micro
 
     - [Hurricane Zones](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
     - [Transit Time](http://project.wnyc.org/transit-time/)
-    - [School Speed zones](http://project.wnyc.org/speed-zones/)
+    - [Dirty Little Secrets story](http://www.wnyc.org/story/nj-contaminated-sites/) and [the tool](http://project.wnyc.org/toxic-nj/)
 
 - Show Don't Tell
 
-    - [Sandy Deaths](http://project.wnyc.org/si-elevation/embed.html#13.00/40.5736/-74.0914)
     - [911 Tapes](http://project.wnyc.org/convent-fire/)
 
 - Follow Ongoing Stories
 
-	- [Storm radar](http://project.wnyc.org/storm-radar/#7/39.508/-85.507)
-	- [Mean Streets](http://project.wnyc.org/traffic-deaths/)
+	- [Mean Streets](http://project.wnyc.org/traffic-deaths-2015/)
+  - [The Counted](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
+  - [Police Shootings](https://www.washingtonpost.com/graphics/national/police-shootings/)
 
-- Have Fun
+- Useful & Playful
 
+  - [Sweaty Subway Stations](http://project.wnyc.org/subway-heat/)
 	- [Pronunciation guide](http://project.wnyc.org/pronunciation/)
-    - [Valentines](http://project.wnyc.org/vday-sentiment/)
-    - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
+  - [Valentines](http://project.wnyc.org/vday-sentiment/)
+  - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
+
 
 ##Mapping Workshop
 
@@ -109,3 +115,5 @@ Your sources are ahead of you
 - Check out these two Jonathan Stray articles:
 	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
 	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
+- How I did it is [posted here](http://johnkeefe.net/email-encryption-and-my-pgp-info).
+- Also: (The Signal App)[https://whispersystems.org/].
