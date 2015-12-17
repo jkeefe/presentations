@@ -13,7 +13,7 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 - Bringing it home (Macro / Micro)
 - Show Don't Tell
 - Follow Ongoing Story
-- Have Fun
+- Useful & Playful
 
 ##Tour
 
@@ -42,7 +42,7 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 - Useful & Playful
 
   - [Sweaty Subway Stations](http://project.wnyc.org/subway-heat/)
-	- [Pronunciation guide](http://project.wnyc.org/pronunciation/)
+  - [Pronunciation guide](http://project.wnyc.org/pronunciation/)
   - [Valentines](http://project.wnyc.org/vday-sentiment/)
   - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
 
