@@ -4,9 +4,9 @@
 This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 
 ## Me
-Twitter: [@jkeefe](https://twitter.com/jkeefe)
-Work: [WNYC Data News](http://www.wnyc.org/people/data-news-team/)
-Play: [johnkeefe.net](http://johnkeefe.net/)
+-  Twitter: [@jkeefe](https://twitter.com/jkeefe)
+-  Work: [WNYC Data News](http://www.wnyc.org/people/data-news-team/)
+-  Play: [johnkeefe.net](http://johnkeefe.net/)
 
 ##Why Data?
 - Finding Stories
