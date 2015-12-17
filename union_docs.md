@@ -116,4 +116,4 @@ Your sources are ahead of you
 	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
 	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
 - How I did it is [posted here](http://johnkeefe.net/email-encryption-and-my-pgp-info).
-- Also: (The Signal App)[https://whispersystems.org/].
+- Also: [Signal](https://whispersystems.org/).
