@@ -3,6 +3,7 @@
 ## Rundown
 
 ### Setup:
+
   - names / affiliations / what brings you here?
   - what could you sense in this room?
   - why would you do that?
