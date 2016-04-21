@@ -46,7 +46,19 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
 
 ##Mapping Workshop
 
-Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md) for that.
+Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md) for the full version.
+
+- Make a quick fusion table with [Google drive(http://drive.google.com)].
+
+- Here's [a more complicated one](https://www.google.com/fusiontables/DataSource?docid=1_kfeoB49t6713CERfIb4f4d_tFV-IkXDl1sJxuk#rows:id=1).
+
+- Style the pins.
+
+- Embed-ability.
+
+- Finished story from that table: [Lengthy Kindergarten Wait Lists Unveiled as Applicants Increase](http://www.wnyc.org/articles/wnyc-news/2012/apr/06/kindergarten-applicants-continue-grow-another-year-long-waiting-lists/)
+
+- Talk about the [joining of the data](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md#data-sourcing--merging).
 
 ##Tips
 
