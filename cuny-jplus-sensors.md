@@ -115,6 +115,7 @@
 
 - Here are the parts you need: http://www.digikey.com/short/38vmfr
 - My blog post on this is here: http://johnkeefe.net/make-every-week-audible-water-sensor
+- Based on this post Don Blair at Public Lab: https://publiclab.org/notes/donblair/09-30-2014/coqui-bbv1-0 
   
 ### Idea-a-thon. 
 
