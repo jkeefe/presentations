@@ -1,14 +1,15 @@
-# Uniondocs Presentation
+# Narrative Storytelling Workshop
 
 *Presented April 21, 2015, in Amsterdam.*  
-This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
+This document is at [bit.ly/storytelling-workshop](http://bit.ly/storytelling-workshop)
 
 ## Me
 -  Twitter: [@jkeefe](https://twitter.com/jkeefe)
 -  Work: [WNYC Data News](http://www.wnyc.org/people/data-news-team/)
 -  Play: [johnkeefe.net](http://johnkeefe.net/)
 
-##Why Data?
+## Data and Your Projects
+
 - Finding Stories
 - Bringing it home (Macro / Micro)
 - Show Don't Tell
@@ -43,8 +44,47 @@ This document is at [bit.ly/ud-jkeefe](http://bit.ly/ud-jkeefe)
   - [Pronunciation guide](http://project.wnyc.org/pronunciation/)
   - [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
 
+##A Word About Numeracy
 
-##Mapping Workshop
+Your sources are ahead of you
+
+- Banks
+- Politicians
+- Candidates
+- Police
+- Non-profits
+- For-profits
+
+
+##A Word About Security
+
+- Protecting you and your sources
+- Concerns are not just NSA. Countries, competitors, private firms, etc.
+- End-to-end encryption
+
+### Easy Things You Can Do Right Now
+- Encrypt your drive
+	- Mac users: Here's how to [turn on FileVault](https://support.apple.com/en-us/HT204837)
+	- Windows users: Here's a [guide to BitLocker](http://www.pcworld.com/article/2308725/a-beginners-guide-to-bitlocker-windows-built-in-encryption-tool.html).
+	
+### More resources
+- Check out these two Jonathan Stray articles:
+	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
+	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
+- How I did it is [posted here](http://johnkeefe.net/email-encryption-and-my-pgp-info).
+- Also: [Signal](https://whispersystems.org/).
+
+
+##A Word About Coding
+
+- Knowing how to code will help you succeed
+- Doesn't always have to be stuff that people will see/use
+- Can help process your information
+- Can help you watch things online (We Love Bots!)
+- Find someone who can code, who you know well and can annoy, and learn their language
+
+
+##Mapping Hand-On
 
 Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/follow-along.md) for the full version.
 
@@ -95,34 +135,3 @@ Head on over [here](https://github.com/jkeefe/mapping-workshop-data/blob/master/
     - Use when location is key to the story
     - Not for navigation
 
-##A Word About Numeracy
-
-Your sources are ahead of you
-
-- Banks
-- Politicians
-- Candidates
-- Police
-- Non-profits
-- For-profits
-
-##A Word About Coding
-
-- Knowing how to code will help you succeed
-- Doesn't always have to be stuff that people will see/use
-- Can help process your information
-- Can help you watch things online (We Love Bots!)
-- Find someone who can code, who you know well and can annoy, and learn their language
-
-##A Word About Security
-
-- Protecting you and your sources
-- Concerns are not just NSA. Countries, competitors, private firms, ect too.
-- End-to-end encryption
-- Storage encryption your drive (easy!)
-- Cloud encryption
-- Check out these two Jonathan Stray articles:
-	- [Security for Journalists, Part One: The Basics](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
-	- [Security for Journalists, Part two: Threat Modeling](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
-- How I did it is [posted here](http://johnkeefe.net/email-encryption-and-my-pgp-info).
-- Also: [Signal](https://whispersystems.org/).
