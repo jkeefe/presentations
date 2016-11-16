@@ -2,7 +2,14 @@
 
 These links accompany the webinar on News Bots I gave on November 16, 2016.
 
-## Links
+## John's Links
+
+- [@jkeefe](https://twitter.com/jkeefe)
+- [johnkeefe.net](http://johnkeefe.net)
+- [WNYC Data News Team](http://www.wnyc.org/datanews)
+- [Really Good Smarts](http://reallygoodsmarts.nyc)
+
+## Presentation Links
 
 - [L.A. Times Quakebot Story](http://www.latimes.com/local/lanow/la-me-earthquakesa-earthquake-32-quake-strikes-near-yosemite-valley-calif-qo7k-story.html)
 - [The Quartz App](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/)
