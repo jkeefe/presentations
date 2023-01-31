@@ -1,5 +1,5 @@
 ## Satellite imagery & data at the New York Times
-Guest lecture at UC Santa Barbara 
+Guest lecture at UC Santa Barbara • January 2023
 
 ### Examples:
 
